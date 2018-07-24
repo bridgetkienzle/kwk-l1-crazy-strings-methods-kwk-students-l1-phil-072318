@@ -2,9 +2,9 @@
 
 def crazy_strings(a,b)
 
-  puts "#{A}".upcase.reverse
-  puts "#{B}".reverse.tr('S','Z')
+  puts "#{a}".upcase.reverse
+  puts "#{b}".reverse.tr('S','Z')
   
 end
 
-crazy_strings("hello", "friends")
+crazy_strings("Hello", "Friends")
