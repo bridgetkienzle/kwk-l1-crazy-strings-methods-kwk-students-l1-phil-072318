@@ -2,8 +2,8 @@
 
 def crazy_strings(a,b)
 
-  puts "#{a}.reverse.tr ('s','z')"
   
+  puts "#{a}.reverse.tr ('s','z')"
 end
 
 crazy_strings("hello", "friends")
