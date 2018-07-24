@@ -2,7 +2,8 @@
 
 def crazy_strings(a,b)
 
-  puts "#{a}".upcase.reverse puts "#{b}".reverse.tr('Z','S')
+  puts "#{a}".upcase.reverse 
+  puts "#{b}".reverse.tr('Z','S')
   
 end
 
