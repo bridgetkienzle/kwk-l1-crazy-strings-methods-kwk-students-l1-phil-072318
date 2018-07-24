@@ -2,7 +2,7 @@
 
 def crazy_strings(a,b)
 
-  puts "#{crazy_strings}.reverse.tr (s,z)"
+  puts "#{crazy_strings}.reverse.tr ('s','z')"
   
 end
 
