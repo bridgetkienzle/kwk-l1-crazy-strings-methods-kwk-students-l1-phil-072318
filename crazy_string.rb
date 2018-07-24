@@ -7,4 +7,4 @@ def crazy_strings( a=hello ,b=friends)
   
 end
 
-crazy_strings
+crazy_strings("hello", "friends")
